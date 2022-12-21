@@ -1,0 +1,21 @@
+html{
+    background: linear-gradient(90deg, rgb(20, 0, 0) 0%, rgb(0, 4, 36) 100%);   
+    color:lime;
+}
+body {
+    margin: 0px;
+    font-family: monospace;
+}
+.content{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.skill-div{
+    /*float:left;*/
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    max-width: min(400px, 100%);
+    padding: 15px;
+}
