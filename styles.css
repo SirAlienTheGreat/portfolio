@@ -6,9 +6,18 @@ body {
     margin: 0px;
     font-family: monospace;
 }
+
 .content{
     margin-left: 5%;
     margin-right: 5%;
+}
+
+.learn{
+    font-size: 9px;  
+}
+
+.learn-small{
+    font-size: 7px;  
 }
 
 .skill-div{
@@ -18,4 +27,15 @@ body {
     vertical-align: top;
     max-width: min(400px, 100%);
     padding: 15px;
+    text-decoration: none;
+}
+
+.skill-div-small{
+    /*float:left;*/
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    max-width: min(250px, 100%);
+    padding: 10px;
+    text-decoration: none;
 }
