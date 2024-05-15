@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <head>
-    <script src="include.js"></script>
-    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script src="/portfolio/include.js"></script>
+    <link rel="stylesheet" type="text/css" href="/portfolio/styles.css"/>
 </head>
 <body>
-    <div w3-include-html="titlebar.html"></div>
+    <div w3-include-html="/portfolio/titlebar.html"></div>
     <div class="content"> 
         <h1>rust-game</h1>
         <h2>A demonstration of the future of programming</h2>
         <p>In order to spur a virtuous cycle of Rust adoption (as described in
-            my <a href="capstone-proposal.html">proposal</a>), I worked with a
+            my <a href="/portfolio/capstone-proposal.html">proposal</a>), I worked with a
             team in order to create a video game that might convince people to
             start adopting Rust. During this process, I needed to use most of the
             21st century skills</p>
@@ -20,17 +20,17 @@
             <p>I had to learn how to use <a href="https://bevyengine.org/">bevy</a>,
                 by testing different tools to see what they do. This is shown by
                 the fact that I didn't use any non-documentation resources. </p>
-            <img src="/images/bevy-example.svg" style="max-width: 100%;">
+            <img src="/portfolio/images/bevy-example.svg" style="max-width: 100%;">
         </div>
         <div class="skill-div">
             <h3>Creative Problem-Solving</h3>
             <p>One of the issues that I encountered was that there was an object in the GLTF file that was exported from Blender that was causing my convex decomposition algorithm to panic. I had to take the vertices from my algorithm and graph them to find the problem. It turned out that my algorithm was panicking from a flat surface being decomposed. Once I figured this out, an easy flatness check and algorithm swap made rust-game panic-free.</p>
-            <img src="/images/scatterplot.png" style="max-width: 100%;">
+            <img src="/portfolio/images/scatterplot.png" style="max-width: 100%;">
         </div>
         <div class="skill-div">
             <h3>Experimentation</h3>
             <p>While I was working on rust-game, after implementing GLTF loading and hitboxes, I needed to do a performance test to make sure that there were no critical memory issues that might prevent us from moving forward with importing Blender files into the game. To do this, I imported a Minecraft world that was far larger than our actual final world to see if there were any performance issues. Luckily, rust-game ran at a smooth 1440p/144FPS, even when put under an unrealistically sized world.</p>
-            <img src="/images/minecraft.png" style="max-width: 100%;">
+            <img src="/portfolio/images/minecraft.png" style="max-width: 100%;">
         </div>
         <div class="skill-div">
             <h3>Critical thinking</h3>
@@ -65,7 +65,7 @@
         <div class="skill-div">
             <h3>Task/Time Management</h3>
             <p>We were on a very strict time limit, and still didn't fully understand our respective programming tools, so we decided to aggressively weight the learning phase of our project. This may have cost us a lot of time at the beginning, but it made the actual creation process very efficient.</p>
-            <img src="/images/blender.png" style="max-width: 100%;">
+            <img src="/portfolio/images/blender.png" style="max-width: 100%;">
             <p>I also had to deal with sunk cost fallacy when implementing multi-threaded convex decomposition. I had spent almost a week trying to implement multi-threaded convex decomposition in order to speed up the development process, each day feeling like I was almost there&trade;. I had to decide to prioritize features that would help end users rather than just developers and drop the idea.</p>
         </div>
         <div class="skill-div">
