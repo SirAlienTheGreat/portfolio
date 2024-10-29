@@ -45,7 +45,7 @@
     if (!hash_equals("sha1=" . $signature, $_SERVER["HTTP_X_HUB_SIGNATURE"])) {
         file_put_contents(
             LOGFILE,
-            "Sigcheck failed. expected {$secret_password} but got {$signature}" .
+            "Sigcheck failed. expected {$secret_password} but got {$signature}, postdata is {$post_data}" .
                 "\n",
             FILE_APPEND
         );
