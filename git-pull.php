@@ -16,7 +16,7 @@
 
 
     <?php
-    define("LOGFILE", "/srv/html/log.txt");
+    define("LOGFILE", "/srv/http/log.txt");
 
     $secret_password = file_get_contents("pass.txt");
 
