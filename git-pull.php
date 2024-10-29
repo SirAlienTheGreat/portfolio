@@ -21,7 +21,7 @@
     $secret_password = file_get_contents("pass.txt");
 
     define("SECRET", $secret_password);
-    define("PULL_CMD", "git pull");
+    define("PULL_CMD", "echo hellothere >> log.txt");
 
     //echo "Password is " . SECRET;
 
