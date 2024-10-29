@@ -1,0 +1,3 @@
+<FilesMatch "^(pass\.txt|log\.txt)$">
+    Require all denied
+</FilesMatch>
