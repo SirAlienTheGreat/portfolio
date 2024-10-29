@@ -34,6 +34,11 @@
         }*/
 
     if (empty($_SERVER["HTTP_X_HUB_SIGNATURE"])) {
+        file_put_contents(
+            LOGFILE,
+            "git pull done with no signature" . "\n",
+            FILE_APPEND
+        );
         exit("no signature");
     }
 
