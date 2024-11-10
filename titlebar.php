@@ -11,6 +11,10 @@
         #mobile_titlebar{
             display: none;
         }
+
+        .mobileonly{
+            display:none;
+        }
     }
     @media all and (max-width:654px) {
         #main_titlebar{
@@ -19,9 +23,13 @@
         #mobile_titlebar{
             display: block;
             padding-left: 75px;
-            height: 40px;
-
+            min-height: 40px;
         }
+
+        .desktoponly{
+            display: none;
+        }
+
     }
     #main_titlebar {
         gap:15px;
@@ -59,7 +67,8 @@
     <a href="/rust-game.php" class="titlebar_item">rust-game</a>
     <a href="/classwork.php" class="titlebar_item">Classwork</a>
     <a href="/tv.php" class="titlebar_item">TV production</a>
-    <a href="/play-game.php" class="titlebar_item">Play the game!</a>
+    <a href="/skills.php" class="titlebar_item">Tech Skills</a>
+    <!--<a href="/play-game.php" class="titlebar_item">Play the game!</a>-->
 
 </div>
 
@@ -101,7 +110,8 @@
           <li><a href="/rust-game.php" class="titlebar_item">rust-game</a></li>
           <li><a href="/classwork.php" class="titlebar_item">Classwork</a></li>
           <li><a href="/tv.php" class="titlebar_item">TV production</a></li>
-          <li><a href="/play-game.php" class="titlebar_item">Play the game!</a></li>
+          <li><a href="/skills.php" class="titlebar_item">Tech Skills</a></li>
+          <!--<li><a href="/play-game.php" class="titlebar_item">Play the game!</a></li>-->
 
 
 

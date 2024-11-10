@@ -13,17 +13,10 @@
         <p>In order to spur a virtuous cycle of Rust adoption (as described in
             my <a href="capstone-proposal.html">proposal</a>), I worked with a
             team in order to create a video game that might convince people to
-            start adopting Rust. During this process, I needed to use most of the
-            21st century skills</p>
+            start adopting Rust. During this process, I needed to use 21st century skills</p>
     </div>
     <div style="text-align: center;">
-        <div class="skill-div">
-            <h3>Inquiry-Based Learning</h3>
-            <p>I had to learn how to use <a href="https://bevyengine.org/">bevy</a>,
-                by testing different tools to see what they do. This is shown by
-                the fact that I didn't use any non-documentation resources. </p>
-            <img src="/images/bevy-example.svg" style="max-width: 100%;">
-        </div>
+
         <div class="skill-div">
             <h3>Creative Problem-Solving</h3>
             <p>One of the issues that I encountered was that there was an object in the GLTF file that was exported from Blender that was causing my convex decomposition algorithm to panic. I had to take the vertices from my algorithm and graph them to find the problem. It turned out that my algorithm was panicking from a flat surface being decomposed. Once I figured this out, an easy flatness check and algorithm swap made rust-game panic-free.</p>
@@ -57,7 +50,7 @@
         </div>
         <div class="skill-div">
             <h3>Effective Communication Skills</h3>
-            <p>When we were presenting our results, we had to make sure that we could communicate our project clearly, and we decided the best way to do that would be to let students have a hands-on experience with it. In order for this to work, we would need to make sure our game could properly communicate with school laptops, which we did using the WASM port.</p>
+            <p>When we were presenting our results, we had to make sure that we could communicate our project clearly, and we decided the best way to do that would be to let students have a hands-on experience with it. In order for this to work, we would need to make sure our game could properly communicate with school laptops, which we did using our WebAssembly port.</p>
         </div>
         <div class="skill-div">
             <h3>Collaboration/Teamwork</h3>

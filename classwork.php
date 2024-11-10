@@ -3,7 +3,6 @@
     <?php include $_SERVER["DOCUMENT_ROOT"] . "/titlebar.php"; ?>
 </head>
 <body>
-    <div w3-include-html="titlebar.html"></div>
     <div class="content">
         <h1>Alligned classwork</h1>
 

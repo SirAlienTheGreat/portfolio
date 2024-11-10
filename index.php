@@ -13,7 +13,8 @@
         that we use every day. I believe in lower-level frameworks creating efficient
         higher-level designs.</p>
         <div style="text-align:center;">
-	        <img src="/images/working-on-code.webp" style="width:min(900px, 90%); alt="Picture of me working on a Rust project">
+	        <img src="/images/working-on-code.webp" style="width:min(900px, 90%); alt="Picture of me working on a Rust project" title="Yes, the terminal is just a system update :)">
+            <p class="mobileonly">To view the other tabs, please click on the hamburger menu in the top left corner</p>
 	</div>
     </div>
 
