@@ -60,6 +60,7 @@
     //log_msg("Deploying at {$date}");
 
     $output_lines = [];
+    exec("cd /srv/http");
     exec(PULL_CMD, $output_lines);
 
     if (!empty($output_lines)) {
