@@ -5,6 +5,9 @@
         #main_titlebar{
             display: flex;
         }
+        #menuToggle{
+            display: none !important;
+        }
         #mobile_titlebar{
             display: none;
         }
@@ -15,7 +18,9 @@
         }
         #mobile_titlebar{
             display: block;
-            position: fixed;
+            padding-left: 75px;
+            height: 40px;
+
         }
     }
     #main_titlebar {
@@ -58,8 +63,13 @@
 
 </div>
 
+<div id="mobile_titlebar">
+    <h1>Allen MacFarland's Website</h1>
+</div>
+
+
 <link rel="stylesheet" href="hamburger-menu.css">
-<div id=mobile_titlebar>
+    <!--<div id=mobile_titlebar>-->
     <div id="menuToggle">
         <!--
         A fake / hidden checkbox is used as click reciever,
@@ -97,7 +107,7 @@
 
 
         </ul>
-      </div>
+
 </div>
 
 <link rel="stylesheet" type="text/css" href="styles.css"/>

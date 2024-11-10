@@ -13,7 +13,7 @@
         that we use every day. I believe in lower-level frameworks creating efficient
         higher-level designs.</p>
         <div style="text-align:center;">
-	        <img src="/images/working-on-code.webp" style="width:900px; alt="Picture of me working on a Rust project">
+	        <img src="/images/working-on-code.webp" style="width:min(900px, 90%); alt="Picture of me working on a Rust project">
 	</div>
     </div>
 
