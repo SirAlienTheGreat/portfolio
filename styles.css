@@ -1,26 +1,27 @@
-html{
-    background: linear-gradient(90deg, rgb(20, 0, 0) 0%, rgb(0, 4, 36) 100%);   
-    color:lime;
+html {
+    background: linear-gradient(90deg, rgb(20, 0, 0) 0%, rgb(0, 4, 36) 100%);
+    color: lime;
 }
 body {
     margin: 0px;
     font-family: monospace;
+    max-width: 100%;
 }
 
-.content{
+.content {
     margin-left: 5%;
     margin-right: 5%;
 }
 
-.learn{
-    font-size: 9px;  
+.learn {
+    font-size: 9px;
 }
 
-.learn-small{
-    font-size: 7px;  
+.learn-small {
+    font-size: 7px;
 }
 
-.skill-div{
+.skill-div {
     /*float:left;*/
     display: inline-block;
     width: 500px;
@@ -30,7 +31,7 @@ body {
     text-decoration: none;
 }
 
-.skill-div-small{
+.skill-div-small {
     /*float:left;*/
     display: inline-block;
     width: 300px;
