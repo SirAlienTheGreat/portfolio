@@ -13,7 +13,6 @@
         }
     </style>
 </head>
-<div w3-include-html="titlebar.html"></div>
 <h3>If you're able to play the <a href="https://github.com/SirAlienTheGreat/rust-game/releases/tag/v1.0.0">desktop version</a>, that is highly preferred.</h3>
 <p>Please allow time for the game to download (1-2 minutes)</p>
 <script type="module">
@@ -38,7 +37,4 @@
 
     <p> Web version of game broken on okeezy.com. Will fix before final submission.</p>
 
-<script>
-    includeHTML();
-</script>
 </html>

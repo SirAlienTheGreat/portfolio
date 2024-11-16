@@ -12,7 +12,6 @@
     </style>
 </head>
 <body>
-    <div w3-include-html="titlebar.html"></div>
     <div class="content">
         <h1>TV Production</h1>
 

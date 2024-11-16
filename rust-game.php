@@ -11,7 +11,7 @@
         <h2>A demonstration of the future of programming</h2>
         <h3> Play the game <a href="https://github.com/SirAlienTheGreat/rust-game">here</a> </h3>
         <p>In order to spur a virtuous cycle of Rust adoption (as described in
-            my <a href="capstone-proposal.html">proposal</a>), I worked with a
+            my <a href="capstone-proposal.php">proposal</a>), I worked with a
             team in order to create a video game that might convince people to
             start adopting Rust. During this process, I needed to use 21st century skills</p>
     </div>
