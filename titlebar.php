@@ -68,6 +68,7 @@
     <a href="/classwork.php" class="titlebar_item">Classwork</a>
     <a href="/tv.php" class="titlebar_item">TV production</a>
     <a href="/skills.php" class="titlebar_item">Tech Skills</a>
+    <a href="/projects.php" class="titlebar_item">Projects</a>
     <!--<a href="/play-game.php" class="titlebar_item">Play the game!</a>-->
 
 </div>
@@ -111,6 +112,7 @@
           <li><a href="/classwork.php" class="titlebar_item">Classwork</a></li>
           <li><a href="/tv.php" class="titlebar_item">TV production</a></li>
           <li><a href="/skills.php" class="titlebar_item">Tech Skills</a></li>
+          <li><a href="/projects.php" class="titlebar_item">Projects</a></li>
           <!--<li><a href="/play-game.php" class="titlebar_item">Play the game!</a></li>-->
 
 

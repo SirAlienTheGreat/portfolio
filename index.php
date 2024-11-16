@@ -14,8 +14,13 @@
         higher-level designs.</p>
         <div style="text-align:center;">
 	        <img src="/images/working-on-code.webp" style="width:min(900px, 90%); alt="Picture of me working on a Rust project" title="Yes, the terminal is just a system update :)">
-            <p class="mobileonly">To view the other tabs, please click on the hamburger menu in the top left corner</p>
-	</div>
+            <p>
+                <a href="https://github.com/SirAlienTheGreat"><img style="width:50px;" src="/images/github-mark-white.svg"></a>
+                <a href="https://www.linkedin.com/in/allen-macfarland/"><img style="width:50px;" src="/images/linkedin-logo.svg"></a>
+            </p>
+        </div>
+
+        <p class="mobileonly">To view the other tabs, please click on the hamburger menu in the top left corner</p>
     </div>
 
 
