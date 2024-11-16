@@ -17,7 +17,7 @@
 
             <div class="skill-div">
                 <h3>Python</h3>
-                <p>Python was the first language I became advanced in (previously, I had only learned the basics of JavaScript). It's a great language because of its many libraries and ease of writing, but for tasks where performance is necessary, it nature as an interpreted language leaves a bit to be desired.</p>
+                <p>Python was the first language I became advanced in (previously, I had only learned the basics of JavaScript). It's a great language because of its many libraries and ease of writing, but for tasks where performance is necessary, its nature as an interpreted language leaves a bit to be desired.</p>
                 <img src="/images/python-logo.svg" style="max-width: 100%; ">
                 <p>A project I did in Python is this <a href="https://github.com/SirAlienTheGreat/MAL-anime-per-month">MAL data grapher</a></p>
             </div>
