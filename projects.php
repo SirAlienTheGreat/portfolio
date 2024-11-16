@@ -42,7 +42,7 @@
             </div></a>
 
             <a href="https://github.com/SirAlienTheGreat/MAL-anime-per-month" style="color:lime; text-decoration: none;"><div class="skill-div" ">
-                <h3>MAL Data calculator (Python)</h3>
+                <h3>MAL Data Calculator (Python)</h3>
                 <p>Similar to discord-gdpr-grapher, this project calculates the amount and average rating of the anime you've watched based on your <a href="https://myanimelist.net/">MAL</a> exported data</p>
                 <a href="/images/mal-graph.png"><img src="/images/mal-graph.png" style="max-width: 100%; "></a>
             </div></a>

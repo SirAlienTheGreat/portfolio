@@ -8,10 +8,7 @@
         <h1>Allen MacFarland</h1>
 
         <h2>About Me</h2>
-        <p>I am a very passionate Linux and Rust developer, and I focus on Computer
-        Science in order to make a difference in the development of the software
-        that we use every day. I believe in lower-level frameworks creating efficient
-        higher-level designs.</p>
+        <p>I am a passionate Linux and Rust developer studying Computer Science in order to develop faster versions of the software that we rely on every day. I focus on lower-level frameworks to create efficient higher-level designs for a more performant end-user experience.</p>
         <div style="text-align:center;">
 	        <img src="/images/working-on-code.webp" style="width:min(900px, 90%); alt="Picture of me working on a Rust project" title="Yes, the terminal is just a system update :)">
             <p>
