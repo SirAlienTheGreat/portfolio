@@ -35,6 +35,6 @@
 |==========================================|<br>
 </p>
 
-    <p> Web version of game broken on okeezy.com. Will fix before final submission.</p>
+
 
 </html>
