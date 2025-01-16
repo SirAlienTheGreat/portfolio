@@ -8,26 +8,26 @@
 
         <h2>I am learning...</h2>
 
-        <h3>Data Structures (currently enrolled)</h3>
-        <p>Implementation and design of algorithms for complex C++ data structures including stacks, queues, trees, and heaps</p>
-
-        <h3>Discrete Structures (currently enrolled)</h3>
-        <p>How to solve complex math problems involving whole numbers and boolean values</p>
-
-
-        <br><h2>I will learn...</h2>
-
-        <h3>Linear Algebra (Planned for Spring 2025)</h3>
-        <p>Complex operations for dealing with and exploiting the properties of matrices</p>
-
-        <h3>Computer Systems (Planned for Spring 2025)</h3>
+        <h3>Computer Systems (currently enrolled)</h3>
         <p>Assembly, optimization, and the other underlying principles which make up modern computers</p>
 
-        <h3>Algorithms (Planned for Spring 2025)</h3>
-        <p>The process for designing and implementing many algorithms used in modern programming, especially those used in tree traversal</p>
+        <h3>Algorithms (currently enrolled)</h3>
+        <p>How to make computers solve complex problems in an efficient way</p>
+
+        <h3>Linear Algebra (currently enrolled)</h3>
+        <p>Complex operations for dealing with and exploiting the properties of matrices</p>
+
+
+        <!--<br><h2>I will learn...</h2>-->
 
 
         <br><h2>I have learned...</h2>
+
+        <h3>Data Structures (Grade: A)</h3>
+        <p>Implementation and design of algorithms for complex C++ data structures including stacks, queues, trees, and heaps</p>
+
+        <h3>Discrete Structures (Grade: A)</h3>
+        <p>How to solve complex math problems involving whole numbers and boolean values</p>
 
         <h3>AP Calculus BC (Score: 5/5)</h3>
         <p>How to solve complex integrals and interpret calculus concepts in many different contexts</p>
