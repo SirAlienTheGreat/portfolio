@@ -47,7 +47,7 @@
                 <h3>Linux</h3>
                 <p>I've been using Linux as my daily driver PC since 2020, so I've become an expert in the Linux CLI. This has proved to be very useful for all kinds of system administration tasks, including setting up the server that you got this website from just now!</p>
                 <img src="/images/tux.svg" style="max-width: 100%; max-height: 144px;">
-                <p>I maintained the server for my high school's <a href="https://frhs.tech/">Computer Science Honor Society</a> for over 2 years, and am still on call for any issues that the new team can't overcome themselves. I'm also maintaining the Debian server that runs this website.</p>
+                <p>I maintained the server for my high school's <a href="https://web.archive.org/web/20240811191605/https://frhs.tech/">Computer Science Honor Society</a> for over 2 years I'm also maintaining the Debian server that runs this website.</p>
             </div>
         </div>
 
