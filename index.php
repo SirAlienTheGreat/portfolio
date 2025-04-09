@@ -11,7 +11,7 @@
         <p>I am a passionate Linux and Rust developer studying Computer Science in order to develop faster versions of the software that we rely on every day. I focus on lower-level frameworks to create efficient higher-level designs for a more performant end-user experience.</p>
 
         <h2>Current Work Status</h2>
-        <p>I'm currently seeking out an internship in Computer Science where I can apply my skills. Contact me <a href="mailto:allen.macfarland@gmail.com">here</a>.</p>
+        <p>This summer (2025), I will be on a SPUR project through CU Boulder!</p>
 
         <div style="text-align:center;">
 	        <img src="/images/working-on-code.webp" style="width:min(900px, 90%); alt="Picture of me working on a Rust project" title="Yes, the terminal is just a system update :)">
