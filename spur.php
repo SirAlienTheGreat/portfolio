@@ -20,7 +20,7 @@
         <h2>High-level technical overview</h2>
         <img src="/images/2025confpaper-general-diagram.svg" style="max-width: 100%; "></a>
         <p>Making this work on the GPU, where calling a function is not allowed, requires a complex pipeline, where both C and Rust sources are compiled manually into an Intermediate Representation (IR) - A low-level programming language that many programming languages individually compile to. After all source files are in the same language (LLVM), it is possible to link all the files into one big file, optimize the code, and compile it to a GPU with the individual LLVM tools.</p>
-        <p>For a more detailed explaination, please read my paper in <a href="/2025confpaper.php">webpage</a> or <a href="images/2025confpaper.pdf">PDF</a> format. Please note that this paper is intended for more technical audiences than the rest of this website.</p>
+        <p>For a more detailed explanation, please read my paper in <a href="/2025confpaper.php">webpage</a> or <a href="images/2025confpaper.pdf">PDF</a> format. Please note that this paper is intended for more technical audiences than the rest of this website.</p>
 
         <h2>Skills this project taught me</h2>
         <div style="text-align: center;">
@@ -36,7 +36,7 @@
 
             <div class="skill-div">
                 <h3>Requesting assistance (Just the right amount)</h3>
-                <p>There were many points in this project where I had to decide whether to ask my professor for help or keep struggling with a problem. It's imporant to find a balance between being over-relient on others (wasting their time) and locking myself into a fruitless endeavor (wasting my time). My heuristic was to generally ask for help when I've exhausted my intuition, debugging tools, and relevent documentation, and then created a reproducible example that I could send to my professor</p>
+                <p>There were many points in this project where I had to decide whether to ask my professor for help or keep struggling with a problem. It's important to find a balance between being over-reliant on others (wasting their time) and locking myself into a fruitless endeavor (wasting my time). My heuristic was to generally ask for help when I've exhausted my intuition, debugging tools, and relevant documentation, and then created a reproducible example that I could send to my professor</p>
             </div>
         </div>
     </div>
