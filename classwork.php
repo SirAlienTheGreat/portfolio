@@ -8,20 +8,34 @@
 
         <h2>I am learning...</h2>
 
-        <h3>Computer Systems (currently enrolled)</h3>
-        <p>Assembly, optimization, and the other underlying principles which make up modern computers</p>
+        <h3>Introduction to Artificial Intelligence (currently enrolled)</h3>
+        <p>How AI works and how to make it</p>
 
-        <h3>Algorithms (currently enrolled)</h3>
-        <p>How to make computers solve complex problems in an efficient way</p>
+        <h3>Digital Design (currently enrolled)</h3>
+        <p>The basics of circuit design</p>
 
-        <h3>Linear Algebra (currently enrolled)</h3>
-        <p>Complex operations for dealing with and exploiting the properties of matrices</p>
+        <h3>Parallel programming (currently enrolled)</h3>
+        <p>How to effectively write code for processors with many cores</p>
 
+        <h3>Introduction to Compiler Construction (currently enrolled)</h3>
+        <p>How to write programs that write programs</p>
+
+        <h3>Computer Security (currently enrolled)</h3>
+        <p>How common exploits work, and how to beat them</p>
 
         <!--<br><h2>I will learn...</h2>-->
 
 
         <br><h2>I have learned...</h2>
+
+        <h3>Computer Systems (Grade: A-)</h3>
+        <p>Assembly, optimization, and the other underlying principles which make up modern computers</p>
+
+        <h3>Algorithms (Grade: A)</h3>
+        <p>How to make computers solve complex problems in an efficient way</p>
+
+        <h3>Linear Algebra (Grade: A)</h3>
+        <p>Complex operations for dealing with and exploiting the properties of matrices</p>
 
         <h3>Data Structures (Grade: A)</h3>
         <p>Implementation and design of algorithms for complex C++ data structures including stacks, queues, trees, and heaps</p>

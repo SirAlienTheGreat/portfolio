@@ -64,6 +64,7 @@
 <div id="main_titlebar">
     <a href="/index.php" class="titlebar_item">Home</a>
     <!--<a href="/capstone-proposal.php" class="titlebar_item">Capstone proposal</a>-->
+    <a href="/spur.php" class="titlebar_item">SPUR (internship)</a>
     <a href="/rust-game.php" class="titlebar_item">rust-game</a>
     <a href="/classwork.php" class="titlebar_item">Classwork</a>
     <a href="/tv.php" class="titlebar_item">TV production</a>
@@ -108,6 +109,7 @@
           -->
           <li><a href="/index.php" class="titlebar_item">Home</a></li>
           <!--<a href="/capstone-proposal.php" class="titlebar_item">Capstone proposal</a>-->
+          <li><a href="/spur.php" class="titlebar_item">SPUR (internship)</a></li>
           <li><a href="/rust-game.php" class="titlebar_item">rust-game</a></li>
           <li><a href="/classwork.php" class="titlebar_item">Classwork</a></li>
           <li><a href="/tv.php" class="titlebar_item">TV production</a></li>
