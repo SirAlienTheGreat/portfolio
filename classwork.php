@@ -58,8 +58,8 @@
         <h3>AP Computer Science A (Score: 5/5)</h3>
         <p>An introduction to the <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">OOP</a> through the Java Programming language</p>
 
-        <h3>TV Productions</h3>
-        <p>How to produce video segments for the school TV broadcast</p>
+        <a href="tv.php" style="color:lime; text-decoration: none;"><h3>TV Productions</h3>
+        <p>How to produce video segments for the high school TV broadcast</p></a>
 
 
 

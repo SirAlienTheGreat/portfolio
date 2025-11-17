@@ -10,7 +10,7 @@
         <h1>rust-game</h1>
         <h2>A demonstration of the future of programming</h2>
         <h3> Play the game <a href="/play-game.php">here</a> </h3>
-        <p>In order to spur a virtuous cycle of Rust adoption (as described in
+        <p>In high school, in order to spur a virtuous cycle of Rust adoption (as described in
             my <a href="capstone-proposal.php">proposal</a>), I worked with a
             team in order to create a video game that might convince people to
             start adopting Rust. During this process, I needed to use 21st century skills</p>
@@ -24,7 +24,7 @@
         </div>
         <div class="skill-div">
             <h3>Experimentation</h3>
-            <p>While I was working on rust-game, after implementing GLTF loading and hitboxes, I needed to do a performance test to make sure that there were no critical memory issues that might prevent us from moving forward with importing Blender files into the game. To do this, I imported a Minecraft world that was far larger than our actual final world to see if there were any performance issues. Luckily, rust-game ran at a smooth 1440p/144FPS, even when put under an unrealistically sized world.</p>
+            <p>While I was working on rust-game, after implementing GLTF loading and hitboxes, I needed to do a performance test to make sure that there were no critical memory issues that might prevent us from moving forward with importing Blender files into the game. To do this, I imported a Minecraft world that was far larger than our actual final world to see if there were any performance issues. Luckily, rust-game ran at a smooth 1440p/144FPS, even when rendering an unrealistically sized world.</p>
             <img src="/images/minecraft.png" style="max-width: 100%;">
         </div>
         <div class="skill-div">

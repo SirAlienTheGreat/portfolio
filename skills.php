@@ -31,7 +31,7 @@
 
             <div class="skill-div">
                 <h3>C++</h3>
-                <p>My college Computer Science classes are taught in C++, so I learned all about pointers and the data structures that can be made from them in C++. C++ is an extremely fun language because of its "freedom-first" approach that allows developers to play with pointers and memory in a way that most other languages would never allow, leading to amazing (and fun) microprograms. Unfortunately, <a href="https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/">The White House</a> has advised against languages like C++ because their freedom often results in memory bugs that lead to serious vulnerabilities, challenging debugging, and unreproducible crashes.</p>
+                <p>My college Computer Science classes are taught in C++, so I learned all about pointers and the data structures that can be made from them in C++. C++ is an extremely fun language because of its "freedom-first" approach that allows developers to play with pointers and memory in a way that most other languages would never allow, leading to amazing (and fun) microprograms. Unfortunately, <a href="https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/">The Biden White House</a> has advised against languages like C++ because their freedom often results in memory bugs that lead to serious vulnerabilities, challenging debugging, and unreproducible crashes.</p>
                 <img src="/images/cpp-logo.svg" style="max-width: 100%; max-height: 144px;">
                 <p>All of the projects I did in C++ were for classes which didn't allow publishing of projects</p>
             </div>
@@ -47,7 +47,7 @@
                 <h3>Linux</h3>
                 <p>I've been using Linux as my daily driver PC since 2020, so I've become an expert in the Linux CLI. This has proved to be very useful for all kinds of system administration tasks, including setting up the server that you got this website from just now!</p>
                 <img src="/images/tux.svg" style="max-width: 100%; max-height: 144px;">
-                <p>I maintained the server for my high school's <a href="https://web.archive.org/web/20240811191605/https://frhs.tech/">Computer Science Honor Society</a> for over 2 years. I'm also maintaining the Debian server that runs this website.</p>
+                <p>I maintained the server for my high school's <a href="https://web.archive.org/web/20240811191605/https://frhs.tech/">Computer Science Honor Society</a> for over 2 years. I'm also maintaining the Debian server that runs the website you're looking at now.</p>
             </div>
         </div>
 
