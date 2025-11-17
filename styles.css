@@ -1,5 +1,5 @@
 html {
-    background: linear-gradient(90deg, rgb(20, 0, 0) 0%, rgb(0, 4, 36) 100%);
+    background: rgb(20, 0, 0);
     color: lime;
 }
 a {
@@ -9,6 +9,7 @@ body {
     margin: 0px;
     font-family: monospace;
     max-width: 100%;
+    background: linear-gradient(90deg, rgb(20, 0, 0) 0%, rgb(0, 4, 36) 100%);
 }
 
 .content {
