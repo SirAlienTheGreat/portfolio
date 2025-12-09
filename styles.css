@@ -44,3 +44,13 @@ body {
     padding: 10px;
     text-decoration: none;
 }
+
+.on-page-button {
+    background-color: lightgreen;
+    font-family: monospace;
+    transform: skewX(10deg);
+}
+
+.on-page-button:hover {
+    background-color: limegreen;
+}

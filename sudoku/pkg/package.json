@@ -1,0 +1,15 @@
+{
+  "name": "soducant-wasm",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "soducant_wasm_bg.wasm",
+    "soducant_wasm.js",
+    "soducant_wasm.d.ts"
+  ],
+  "main": "soducant_wasm.js",
+  "types": "soducant_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}

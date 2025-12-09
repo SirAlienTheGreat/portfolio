@@ -79,7 +79,7 @@
 </div>
 
 
-<link rel="stylesheet" href="hamburger-menu.css">
+<link rel="stylesheet" href="/hamburger-menu.css">
     <!--<div id=mobile_titlebar>-->
     <div id="menuToggle">
         <!--
@@ -124,4 +124,4 @@
 
 </div>
 
-<link rel="stylesheet" type="text/css" href="styles.css"/>
+<link rel="stylesheet" type="text/css" href="/styles.css"/>
