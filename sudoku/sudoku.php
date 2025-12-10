@@ -56,8 +56,12 @@
         <button onclick="run_internal_benchmark()" class="on-page-button">
             Run internal benchmark
         </button>
-        <p id="output"></p>
+        <p id="output" style="min-height:30px"> </p>
 
+        <p>This is a project I made as extra study for my intro to AI course. It uses <a href="https://en.wikipedia.org/wiki/Simulated_annealing">simulated annealing</a> to solve the sudoku, as explained in the diagram below</p>
+
+        <img src="/images/sudoku-solver-diagram.svg" style="max-width: 100%;">
+        <p>View the source code on <a href="https://github.com/SirAlienTheGreat/soducant/">my github repo for this project</a></p>
     </div>
 </body>
 </html>
