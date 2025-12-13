@@ -26,7 +26,7 @@
         <div style="text-align: center;">
             <div class="skill-div">
                 <h3>Perseverance</h3>
-                <p>This project was really hard, and full of issues that are very challenging to debug, especially with the LLVM tools. There were many points where I wanted to give up and do something more relaxing with my summer, but I decided to persevere and finish the project. This has made me into a more resilient person who is capable of accepting more difficult tasks in the future.</p>
+                <p>This project was very complex, and full of issues that are very challenging to debug, especially with the LLVM tools. There were many points where I wanted to give up and choose a more straightforward project for my internship, but I decided to persevere and finish the project. This has made me into a more resilient person who is capable of accepting more difficult tasks in the future.</p>
             </div>
 
             <div class="skill-div">

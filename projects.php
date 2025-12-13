@@ -33,7 +33,7 @@
                 <a href="/images/screenshot-desktop.png"><img src="/images/screenshot-desktop.webp" style="max-width: 100%; "></a>
             </div></a>
 
-            <a href="/sudoku/sudoku.php" style="color:lime; text-decoration: none;"><div class="skill-div" ">
+            <a href="/sudoku/sudoku.php" style="color:lime; text-decoration: none;"><div class="skill-div" >
                 <h3>Soducant (Sudoku solver)</h3>
                 <p>This is a sudoku solver I made to practice simulated annealing</p>
                 <a href="/images/sudoku-screenshot.webp"><img src="/images/sudoku-screenshot.webp" style="max-width: 100%; "></a>
