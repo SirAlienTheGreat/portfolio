@@ -46,14 +46,14 @@
                     '000000000000000000000000000000000000000000000000000000000000000000000000000000000',
                 )
             "
-            class="on-page-button"
+            class="on-page-button sudoku-button"
         >
             Clear board
         </button>
-        <button onclick="generateNewBoard()" class="on-page-button">Generate new board</button>
-        <button onclick="solveSudoku()" class="on-page-button">Solve Sudoku</button>
-        <button onclick="run_web_benchmark()" class="on-page-button">Run benchmark</button>
-        <button onclick="run_internal_benchmark()" class="on-page-button">
+        <button onclick="generateNewBoard()" class="on-page-button sudoku-button">Generate new board</button>
+        <button onclick="solveSudoku()" class="on-page-button sudoku-button">Solve Sudoku</button>
+        <button onclick="run_web_benchmark()" class="on-page-button sudoku-button">Run benchmark</button>
+        <button onclick="run_internal_benchmark()" class="on-page-button sudoku-button">
             Run internal benchmark
         </button>
         <p id="output" style="min-height:30px"> </p>

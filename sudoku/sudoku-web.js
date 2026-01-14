@@ -111,6 +111,20 @@ function clearPlaceholders() {
   solutionVisible = false;
 }
 
+function grey_all_buttons() {
+  var buttons = document.getElementsByClassName("sudoku-button");
+  for (let i = 0; i < buttons.length; i++) {
+    buttons[i].disabled = true;
+  }
+}
+
+function ungrey_all_buttons() {
+  var buttons = document.getElementsByClassName("sudoku-button");
+  for (let i = 0; i < buttons.length; i++) {
+    buttons[i].disabled = false;
+  }
+}
+
 function readSudoku() {
   var string = "";
   for (var i = 1; i < 82; i++) {
@@ -169,6 +183,7 @@ function generateNewBoard() {
 }
 
 async function run_web_benchmark() {
+  grey_all_buttons();
   const tries = 1000;
 
   const start = performance.now();
@@ -180,25 +195,38 @@ async function run_web_benchmark() {
   const end = performance.now();
 
   document.getElementById("output").innerHTML =
-    "Benchmark (web edition, including writing to page) solved " +
+    "Benchmark (web edition, including writing solutions to page) solved " +
     tries +
     " sudokus in " +
     (end - start) +
     "ms";
+
+  ungrey_all_buttons();
 }
 
 function run_internal_benchmark() {
-  const start = performance.now();
-  benchmark_intern();
-  benchmark_intern();
-  const end = performance.now();
+  //grey_all_buttons();
+  window.requestAnimationFrame(grey_all_buttons);
+  grey_all_buttons();
 
   document.getElementById("output").innerHTML =
-    "Benchmark (internal edition, no writing to page) solved " +
-    1000 +
-    " sudokus in " +
-    (end - start) +
-    "ms";
+    "Running internal benchmark... please wait...";
+
+  setTimeout(() => {
+    const start = performance.now();
+    benchmark_intern();
+    benchmark_intern();
+
+    const end = performance.now();
+
+    document.getElementById("output").innerHTML =
+      "Benchmark (internal edition, solving without writing solutions to page) solved " +
+      1000 +
+      " sudokus in " +
+      (end - start) +
+      "ms";
+    ungrey_all_buttons();
+  }, 0);
 }
 
 generateSudokuBoard();
@@ -211,3 +239,4 @@ window.generateNewBoard = generateNewBoard;
 window.run_web_benchmark = run_web_benchmark;
 window.run_internal_benchmark = run_internal_benchmark;
 window.solve = solve;
+window.grey_all_buttons = grey_all_buttons;

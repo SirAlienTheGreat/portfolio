@@ -52,6 +52,10 @@ body {
     transform: skewX(10deg);
 }
 
-.on-page-button:hover {
+.on-page-button:hover:enabled {
     background-color: limegreen;
+}
+
+.on-page-button:disabled {
+    background-color: grey;
 }
